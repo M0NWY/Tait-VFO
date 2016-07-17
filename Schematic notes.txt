@@ -1,0 +1,4 @@
+If anyone would like to make a proper schematic with a cad programme please feel free.
+I've not got the time !!
+
+Discrete 2n700's were used because I had them in stock, I'm sure 16 channel buffer IC's exist that would be a better solution.
