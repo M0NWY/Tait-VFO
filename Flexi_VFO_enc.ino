@@ -33,7 +33,7 @@ int button2;
 int tunestep = 1;
 int ptt;
 char key;
-const byte  mcp_address=0x24;      // I2C Address of MCP23017 Chip
+const byte  mcp_address=0x24;      // I2C Address of MCP23017 Chip - not the default address - connect pins or adjust code accordingly
 const byte  GPIOA=0x12;            // Register Address of Port A
 const byte  GPIOB=0x13;            // Register Address of Port B
 int shift = 0; //repeater shift flag
